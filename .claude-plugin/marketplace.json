@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "full-stack-developer",
+  "description": "Opinionated full-stack development plugin. Enforces Next.js, NestJS, Turborepo, Expo, Mastra, Prisma, and Clerk with sub-agents for build validation, stack compliance, and completeness checking.",
+  "owner": {
+    "name": "Jaswanth",
+    "url": "https://github.com/jaswanth27p"
+  },
+  "plugins": [
+    {
+      "name": "full-stack-developer",
+      "description": "Opinionated full-stack development assistant with skills for stack selection, tech rules enforcement, and sub-agents for build and compliance checking.",
+      "source": "./",
+      "category": "development"
+    }
+  ]
+}
