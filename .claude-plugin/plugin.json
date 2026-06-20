@@ -1,0 +1,9 @@
+{
+  "name": "full-stack-developer",
+  "description": "Opinionated full-stack development assistant. Selects and enforces the right tech stack (Next.js, NestJS, Turborepo, Expo, Mastra, Prisma, Clerk) and builds production-ready applications end-to-end with no gaps. Sub-agents validate builds, enforce stack rules, and check implementation completeness.",
+  "author": {
+    "name": "Jaswanth",
+    "email": "jaswanthjas20@gmail.com"
+  },
+  "version": "1.0.0"
+}
